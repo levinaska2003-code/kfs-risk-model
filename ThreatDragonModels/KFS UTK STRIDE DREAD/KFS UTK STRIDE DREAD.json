@@ -1,0 +1,27 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "KFS UTK STRIDE DREAD",
+    "owner": "Levinas Elizaveta",
+    "description": "ESP32 датчики → MQTT/TLS (Mosquitto на RPi) → Node-RED/OpenPLC → Modbus TCP → УТК; Grafana+InfluxDB",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DFD КФС-стенд",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Полевой уровень → управление → исполнительное устройство"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
